@@ -9,6 +9,3 @@ Pueden hacer lo que quieran...
 
 ### GitHub
 Cambios realizados desde GitHub
-
-### GIT local
-Cambios hechos en local
